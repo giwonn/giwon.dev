@@ -124,10 +124,10 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: giwonn/comment.giwon.dev
-    repo_id: R_kgDOQPEyhg
-    category: Comments
-    category_id: DIC_kwDOQPEyhs4CxbYS
+    repo: "giwonn/comment.giwon.dev"
+    repo_id: "R_kgDOQPEyhg"
+    category: "Comments"
+    category_id: "DIC_kwDOQPEyhs4CxbYS"
     mapping: # optional, default to 'pathname'
     strict: # optional, default to '0'
     input_position: # optional, default to 'bottom'
