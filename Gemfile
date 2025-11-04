@@ -12,3 +12,10 @@ platforms :mingw, :x64_mingw, :mswin, :jruby do
 end
 
 gem "wdm", "~> 0.2.0", :platforms => [:mingw, :x64_mingw, :mswin]
+
+# custom
+
+group :jekyll_plugins do
+  gem 'jekyll-linkpreview'
+  gem 'jekyll-compose'
+end
