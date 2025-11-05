@@ -156,7 +156,6 @@ baseurl: ""
 
 plugins:
   - jekyll-linkpreview
-  - jekyll-compose
 
 # ------------ The following options are not recommended to be modified ------------------
 
