@@ -1,7 +1,7 @@
 # Chirpy Starter
 
 ### gemfile 수정 후
-```
+```sh
 bundle
 ```
 
@@ -12,8 +12,13 @@ bundle
 - [https://chirpy.cotes.page/posts/text-and-typography](https://chirpy.cotes.page/posts/text-and-typography)
 
 ### 링크 preview 생성 문법
-```
+```md
 {% linkpreview "https://github.com/" %}
+```
+
+### 로컬 실행
+```sh
+bundle exec jekyll serve
 ```
 
 
